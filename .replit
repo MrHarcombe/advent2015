@@ -1,2 +1,2 @@
 language = "bash"
-run = "Run it yourself"
+run = "echo 'Run it yourself'"
